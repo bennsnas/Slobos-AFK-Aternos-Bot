@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ZNOJMC.aternos.me",
-    "port": 30461,
-    "version": "",
+    "ip": "sky-haven.aternos.me",
+    "port": 61233,
+    "version": "1.21.51.01",
     "try-creative": false
   },
   "position": {
